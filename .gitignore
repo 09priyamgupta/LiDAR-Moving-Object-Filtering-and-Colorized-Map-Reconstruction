@@ -1,2 +1,8 @@
-# Ignore all contents inside dataset/
+# Ignore everything inside dataset/
 dataset/**
+
+# But keep the dataset folder itself
+!dataset/
+
+# And keep this placeholder file
+!dataset/.gitkeep
