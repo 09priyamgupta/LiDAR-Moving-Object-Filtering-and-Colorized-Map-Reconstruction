@@ -9,6 +9,13 @@ The notebook walks through every stage of the pipeline, from loading the dataset
 
 ---
 
+# Author
+
+**Name:** Priyam Gupta        
+**Neptun code:** KXHGEA
+
+---
+
 # Directory Structure
 
 ```
