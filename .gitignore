@@ -6,3 +6,6 @@ dataset/**
 
 # And keep this placeholder file
 !dataset/.gitkeep
+
+# Ignore large videos
+*.mp4
